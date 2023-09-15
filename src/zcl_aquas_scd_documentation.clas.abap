@@ -1,0 +1,14 @@
+CLASS zcl_aquas_scd_documentation DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_aquas_scd_documentation IMPLEMENTATION.
+ENDCLASS.
